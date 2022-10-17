@@ -1,10 +1,10 @@
 #include <stdio.h>
-#include <stlib.h>
+#include <stdlib.h>
 #include <time.h>
 /**
- * *main -Entry point
- * *
- * *Return: Always 0 (success)
+ **main -Entry point
+ **
+ **Return: Always 0 (success)
  */
 int main(void)
 {
@@ -25,4 +25,5 @@ printf("%d is zero\n", n);
 return (0);
 
 }
+
 
